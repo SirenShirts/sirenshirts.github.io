@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #FFA319;
   outline: none; }
 
 h1,
@@ -54,7 +54,7 @@ hr.star-light {
   border-color: white; }
 
 hr.star-light:after {
-  background-color: #18BC9C;
+  background-color: #FFA319;
   color: white; }
 
 hr.star-primary {
@@ -74,7 +74,7 @@ section {
     font-size: 3em; }
 
 section.success {
-  background: #18BC9C;
+  background: #FFA319;
   color: white; }
 
 @media (max-width: 767px) {
@@ -101,7 +101,7 @@ section.success {
       outline: none; }
 
 #mainNav {
-  background: #2C3E50;
+  background: #A66300;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -117,7 +117,7 @@ section.success {
     #mainNav .navbar-nav li.nav-item a.nav-link {
       color: white; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-        color: #18BC9C;
+        color: #FFA319;
         outline: none; }
       #mainNav .navbar-nav li.nav-item a.nav-link:focus, #mainNav .navbar-nav li.nav-item a.nav-link:active {
         color: white; }
@@ -128,9 +128,9 @@ section.success {
     border-color: white;
     padding: 11px; }
     #mainNav .navbar-toggler:hover, #mainNav .navbar-toggler:focus {
-      background-color: #18BC9C;
+      background-color: #FFA319;
       color: white;
-      border-color: #18BC9C; }
+      border-color: #FFA319; }
 
 @media (min-width: 992px) {
   #mainNav {
@@ -145,11 +145,11 @@ section.success {
       transition: all 0.3s; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
       color: white;
-      background: #18BC9C;
+      background: #FFA319;
       border-radius: 3px; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active {
         color: white;
-        background: #18BC9C; }
+        background: #FFA319; }
   #mainNav.navbar-shrink {
     padding: 10px 0; }
     #mainNav.navbar-shrink .navbar-brand {
@@ -157,7 +157,7 @@ section.success {
 
 header.masthead {
   text-align: center;
-  background: #18BC9C;
+  background: #FFA319;
   color: white; }
   header.masthead .container {
     padding-top: 100px;
@@ -326,7 +326,7 @@ header.masthead {
   opacity: 1; }
 
 .floating-label-form-group-with-focus label {
-  color: #18BC9C; }
+  color: #FFA319; }
 
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee; }
@@ -352,7 +352,7 @@ footer {
   transition: all 0.3s ease-in-out;
   margin-top: 15px; }
   .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
-    color: #18BC9C;
+    color: #FFA319;
     background: white;
     border: solid 2px white; }
 
@@ -396,8 +396,8 @@ footer {
 
 .btn-success {
   color: white;
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #FFA319;
+  border-color: #FFA319;
   font-weight: 700; }
   .btn-success:focus, .btn-success.focus {
     color: white;
@@ -426,10 +426,10 @@ footer {
   fieldset[disabled] .btn-success:hover,
   fieldset[disabled] .btn-success:focus,
   fieldset[disabled] .btn-success.focus {
-    background-color: #18BC9C;
-    border-color: #18BC9C; }
+    background-color: #FFA319;
+    border-color: #FFA319; }
   .btn-success .badge {
-    color: #18BC9C;
+    color: #FFA319;
     background-color: white; }
 
 .btn-social {
