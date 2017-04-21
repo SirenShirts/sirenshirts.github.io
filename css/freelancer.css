@@ -167,9 +167,9 @@ header.masthead {
     margin: 0 auto 20px; }
   header.masthead .intro-text .name {
     display: block;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Raleway", Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 300;
     font-size: 2em; }
   header.masthead .intro-text .skills {
     font-size: 1.25em;
